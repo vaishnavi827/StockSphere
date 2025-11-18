@@ -1,0 +1,30 @@
+/* Clean background */
+body {
+    background-color: #eef2f7;
+}
+
+/* Title */
+.app-title {
+    font-size: 40px;
+    font-weight: 800;
+    color: #1b2a4a;
+    margin-bottom: 10px;
+}
+
+/* Section Card */
+.section-card {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 18px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    margin-bottom: 35px;
+}
+
+/* Metric Cards */
+.metric-card {
+    background: white;
+    padding: 20px;
+    border-radius: 14px;
+    box-shadow: 0 3px 14px rgba(0,0,0,0.06);
+    text-align: center;
+}
